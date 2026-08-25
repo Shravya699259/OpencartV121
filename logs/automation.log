@@ -1,0 +1,26 @@
+2026-08-24 07:55:53 INFO  TC001_AccountRegistrationTest:15 - ******Starting TC001_AccountRegistrationTest.java********
+2026-08-24 11:51:55 INFO  TC001_AccountRegistrationTest:15 - ******Starting TC001_AccountRegistrationTest.java********
+2026-08-24 12:05:30 INFO  TC001_AccountRegistrationTest:15 - ******Starting TC001_AccountRegistrationTest.java********
+2026-08-24 12:05:30 INFO  TC001_AccountRegistrationTest:21 - clicked on my account
+2026-08-24 12:05:30 INFO  TC001_AccountRegistrationTest:24 - clicked on register
+2026-08-24 12:05:30 INFO  TC001_AccountRegistrationTest:27 - providing customer details
+2026-08-24 12:05:31 INFO  TC001_AccountRegistrationTest:38 - validating expected message
+2026-08-24 12:05:32 INFO  TC001_AccountRegistrationTest:55 - ******Ended TC001_AccountRegistrationTest.java********
+2026-08-24 18:01:10 INFO  TC001_AccountRegistrationTest:15 - ******Starting TC001_AccountRegistrationTest.java********
+2026-08-24 18:01:10 INFO  TC001_AccountRegistrationTest:21 - clicked on my account
+2026-08-24 18:01:11 INFO  TC001_AccountRegistrationTest:24 - clicked on register
+2026-08-24 18:01:11 INFO  TC001_AccountRegistrationTest:27 - providing customer details
+2026-08-24 18:01:13 INFO  TC001_AccountRegistrationTest:38 - validating expected message
+2026-08-24 18:01:13 INFO  TC001_AccountRegistrationTest:55 - ******Ended TC001_AccountRegistrationTest.java********
+2026-08-24 18:21:54 INFO  TC001_AccountRegistrationTest:15 - ******Starting TC001_AccountRegistrationTest.java********
+2026-08-24 18:21:54 INFO  TC001_AccountRegistrationTest:21 - clicked on my account
+2026-08-24 18:21:55 INFO  TC001_AccountRegistrationTest:24 - clicked on register
+2026-08-24 18:21:55 INFO  TC001_AccountRegistrationTest:27 - providing customer details
+2026-08-24 18:21:57 INFO  TC001_AccountRegistrationTest:38 - validating expected message
+2026-08-24 18:21:57 INFO  TC001_AccountRegistrationTest:55 - ******Ended TC001_AccountRegistrationTest.java********
+2026-08-24 18:35:04 INFO  TC001_AccountRegistrationTest:15 - ******Starting TC001_AccountRegistrationTest.java********
+2026-08-24 18:35:05 INFO  TC001_AccountRegistrationTest:21 - clicked on my account
+2026-08-24 18:35:06 INFO  TC001_AccountRegistrationTest:24 - clicked on register
+2026-08-24 18:35:06 INFO  TC001_AccountRegistrationTest:27 - providing customer details
+2026-08-24 18:35:10 INFO  TC001_AccountRegistrationTest:38 - validating expected message
+2026-08-24 18:35:10 INFO  TC001_AccountRegistrationTest:55 - ******Ended TC001_AccountRegistrationTest.java********
